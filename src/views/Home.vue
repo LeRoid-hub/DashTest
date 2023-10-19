@@ -1,4 +1,4 @@
-<template>
+<thelemplate>
     <div className="home">
       <the-welcome/>
     </div>

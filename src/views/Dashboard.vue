@@ -7,6 +7,10 @@ import Tile from "@/components/tile.vue";
           <template #tName>Plesk</template>
           <a href="https://barfuss.email:8443/login_up.php">Zum Login</a>
       </tile>
+      <title>
+          <template #tName>CouchDB Login</template>
+          <a href="https://barfuss.email:6984/_utils/#login">Zum Login</a>
+        </title>
       <tile>
           <template #tName>Home</template>
           <router-link to="/Home">Home</router-link>
